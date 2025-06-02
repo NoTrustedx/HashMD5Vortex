@@ -1,5 +1,5 @@
 # 🚀 HashMD5Vortex - Modo de Uso
-```
+
 ## 📦 Requisitos Previos
 ```bash
 pip install pyfiglet tqdm
@@ -78,4 +78,3 @@ Procesando: 100%|█████████| 143M/143M [05:21<00:00, 445k clave
 
 ## 📜 Licencia
 `MIT License` - Uso ético únicamente. El desarrollo de esta herramienta es para el uso en un entorno controlado el desarrollador no se responsabiliza como lo utilice.
-```
