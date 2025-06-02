@@ -1,4 +1,4 @@
-# 🚀 HashForge MD5 - Modo de Uso
+# 🚀 HashMD5Vortex - Modo de Uso
 
 ## 📦 Requisitos Previos
 ```bash
